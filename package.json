@@ -1,0 +1,12 @@
+{
+	"name": "porcupine",
+  	"version": "1.0.1",
+  	"private": true,
+  	"scripts": {
+    		"start": "node porcupine.js"
+  	},
+  	"dependencies": {
+    		"mysql": "*",
+		"socket.io": "*"
+  	}
+}
